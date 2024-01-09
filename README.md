@@ -1,4 +1,4 @@
-# Video-Recoloring-GUI-superPixel-auto-debug
+# Convexhull-based-Image-Recoloring-GUI
 A GUI written by Qt for convex hull palette based image recoloring
 
 ![LC-CRF-SLAM](https://github.com/Zhengjun-Du/Convexhull-based-Image-Recoloring-GUI/blob/main/GUI.png)
@@ -21,3 +21,4 @@ Windows 10 + Qt 5.14.1 + Visual Studio 2015
 3. Wang Y, Liu Y, Xu K. An Improved Geometric Approach for Palette‐based Image Decomposition and Recoloring[C]//Computer Graphics Forum. 2019, 38(7): 11-22.
 
 Any question, please feel free to contact me: duzqhu@aliyun.com
+
